@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "471cbd4a-c9b7-4e7e-9eb2-b44cdb2bc6a8": {
+      "ProjectGuid": "471cbd4a-c9b7-4e7e-9eb2-b44cdb2bc6a8",
+      "DisplayName": "PracticaLogin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
